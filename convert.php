@@ -1,5 +1,6 @@
 <?php
-// This program is the direct translation of a c program for decimal integer to Roman Numeral mapping composed by Deep Rahman
+// This program is the direct translation of a c program for decimal integer to Roman Numeral mapping
+// PHP transletion is done by composed by Deep Rahman
 // Create an array for storing mapped Roman Digits
 $romanval = [];    //Global Scope
 // Create a index variable for remembering the non-empty cells of the $romanval array
