@@ -95,4 +95,4 @@ while($number !== 0){
     }
 }
 $result = implode($romanval);
-echo "<br> $sore can be represented as Roman number  {$result}";
+echo "<br> $store can be represented as Roman number  {$result}";
